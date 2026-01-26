@@ -1,0 +1,14 @@
+[
+    {
+        "Id": "a1b2c3d4-5678-90ab-cdef-0123456789ab",
+        "NameAr": "عام",
+        "NameEn": "General",
+        "Description": "The sector related to General Events."
+    },
+    {
+        "Id": "b1c2d3e4-5678-90ab-cdef-0123456789ab",
+        "NameAr": "اقتصادي",
+        "NameEn": "Economic",
+        "Description": "The sector related to Economic Events."
+    }
+]

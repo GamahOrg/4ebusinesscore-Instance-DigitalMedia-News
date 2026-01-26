@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "b7453426-3f92-4755-8fc5-9756a83ac5ba",
+    "NameAr": "مؤلف",
+    "NameEn": "Author",
+    "Email": "sample.author@example.com",
+    "Address": "123 Main Street, Cityville",
+    "PhoneNumber": "+966512345678",
+    "JobTitle": "Journalist",
+    "JobLocation": "News Agency"
+  },
+  {
+    "Id": "e9873f3c-ce7a-4f7b-8bb3-c7e335a7e805",
+    "NameAr": "مؤلف آخر",
+    "NameEn": "Another Author",
+    "Email": "another.author@example.com",
+    "Address": "456 Oak Avenue, Townsville",
+    "PhoneNumber": "+966512345688",
+    "JobTitle": "Reporter",
+    "JobLocation": "Media Company"
+  }
+]

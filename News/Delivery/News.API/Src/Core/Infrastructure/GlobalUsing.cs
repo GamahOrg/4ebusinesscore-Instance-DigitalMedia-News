@@ -1,0 +1,18 @@
+﻿global using Domain.Enums;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using News.Domain.Models;
+global using News.Infrastructure.Context;
+global using News.Infrastructure.GenericRepo;
+global using News.Infrastructure.ResponseDto;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using NewsModel = News.Domain.Models.News;
+global using System.Security.Claims;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using News.Infrastructure.Helpers;
+global using Newtonsoft.Json;
